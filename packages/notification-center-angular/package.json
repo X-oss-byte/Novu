@@ -32,7 +32,7 @@
     }
   },
   "dependencies": {
-    "@angular/common": "~15.2.0",
+    "@angular/common": "~22.1.0",
     "@angular/compiler": "~15.2.0",
     "@angular/core": "~15.2.0",
     "@angular/platform-browser": "~15.2.0",
